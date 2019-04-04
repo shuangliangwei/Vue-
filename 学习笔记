@@ -1,0 +1,23 @@
+cmset 方法
+重新引用
+数组七大（pop， push，）变异方法
+
+vue使用is属性解决模板标签bug问题（tbody --tr ul  select）
+
+子组件里面定义data必须是函数，不能是对象！
+data：function（）{
+return{
+content：“xxx”；
+}
+}
+
+ref的使用
+
+vue局部组件和全局组件有什么区别
+父组件-->子组件
+子组件！-->父组件   单向数据流
+validator props特性
+
+
+
+任何不是块级元素的可见元素都是内联元素。
